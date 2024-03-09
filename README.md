@@ -1,16 +1,16 @@
-Questão 01)
- 
-  fun main() {
-    val INDICE: Int = 13
-    var SOMA: Int = 0
-    var K: Int = 0 
+QUESTÃO 01)
+ 				
+fun main() {
+ val INDICE: Int = 13
+ var SOMA: Int = 0
+ var K: Int = 0 
     
-    while(K < INDICE){
-        K = K + 1
-        SOMA = SOMA + K
-     }
-    println(SOMA)
-   }
+ while(K < INDICE){
+  K = K + 1
+  SOMA = SOMA + K
+ }
+ println(SOMA)
+}
 
  A variável SOMA terá o valor 91
 
